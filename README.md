@@ -19,8 +19,8 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina 
 
 ### 1. Clonar o Repositório
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
-cd <NOME_DA_PASTA_DO_PROJETO>
+git clone https://github.com/Samuel-Sj/fht-desafio-dev
+cd cd fht-desafio-dev
 
 2. Instalar as Dependências
 
@@ -34,7 +34,7 @@ npm install
 Para colocar a aplicação no ar, rode:
 Bash
 
-node server.js
+node ./backend/server.js
 
 O console exibirá a mensagem: Servidor rodando na porta 3000.
 4. Acessar a Aplicação
