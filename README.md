@@ -43,6 +43,8 @@ Abra o seu navegador de preferência e acesse:
 
 http://localhost:3000
 
+Para acessar o formulário dois cliques no index.html
+
 🐛 Resolução do Bug (Parte B)
 O Problema Original
 
