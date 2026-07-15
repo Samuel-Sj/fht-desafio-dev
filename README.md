@@ -1,4 +1,3 @@
-# fht-desafio-dev
 # Mini Gerador de Roteiros - Processo Seletivo FHT
 
 Este projeto é uma versão simplificada de uma plataforma de geração de materiais de vendas, desenvolvido como parte do teste técnico para a vaga de Desenvolvedor(a) Júnior de Produto na FHT.
